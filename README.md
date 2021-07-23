@@ -3,6 +3,11 @@ Stitches OS is a debian ReSpin with custom wm and features it was built with liv
 
 https://sourceforge.net/projects/stitchesos/
 
+## Stitches Dwm and St
+https://github.com/ArizpeA1/StitchesOS-dwm
+
+
+
 ## Features
 * Dwm
 * Transparency
