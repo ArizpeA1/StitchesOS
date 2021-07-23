@@ -5,6 +5,7 @@ https://sourceforge.net/projects/stitchesos/
 
 ## Stitches Dwm and St
 https://github.com/ArizpeA1/StitchesOS-dwm
+https://github.com/ArizpeA1/StitchesOS-St
 
 
 
