@@ -17,8 +17,7 @@ https://github.com/ArizpeA1/StitchesOS-St
 * Gaps
 * Custom-St
 * Clipboard
-* Minimal (exept for Chromium)
-* Chromium
+* Firefox
 * Calamares Installer
 * Volume keybinds
 * File manager keybinds
